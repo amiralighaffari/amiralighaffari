@@ -1,6 +1,6 @@
 # Hi, I'm Amirali! 👋
 
-💻 **Programming Learner | Aspiring Computer Engineer**
+💻 **Computer Engineering Student | Programming Learner**
 
 I'm passionate about technology, programming, and problem-solving. I'm currently building my skills, exploring new concepts, and working on projects to grow as a developer.
 
