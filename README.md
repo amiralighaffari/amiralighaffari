@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Amirali! 👋
 
-<!--
-**amiralighaffari/amiralighaffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Programming Learner | Aspiring Computer Engineer**
 
-Here are some ideas to get you started:
+I'm passionate about technology, programming, and problem-solving. I'm currently building my skills, exploring new concepts, and working on projects to grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing
+- 📚 Learning programming step by step
+- 💡 Practicing problem-solving
+- 🛠️ Building projects and experimenting with code
+- 🌱 Always learning and improving
+
+### 🎯 My Goals
+- Build a strong foundation in computer science
+- Develop practical programming skills
+- Create useful and meaningful projects
+- Grow as a software developer
+
+### 📌 Featured Repository
+- [Python Journey](https://github.com/amiralighaffari/python-journey) — My programming practice and learning progress.
+
+---
+
+*Always learning. Always building.*
